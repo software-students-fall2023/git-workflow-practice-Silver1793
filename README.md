@@ -8,3 +8,5 @@ Some examples are feat which is for when you are adding a feature, fix for when 
 If your commit follows mutliple of these conventions, it is recommended to make multiple commits since commits are completly free and that there arnt any downsides of doing multiple commits. Of course overcommiting is not encouraged and these commits should be situationally judged.
 
 I like that the website has a quick summary section - Ruizhe Qu(Richard)
+
+This was very informative, I didn't know there were conventions to making commits. - Allyson Chan
